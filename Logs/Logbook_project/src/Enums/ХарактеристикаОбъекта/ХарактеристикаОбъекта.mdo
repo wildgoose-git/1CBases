@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="d6223be0-a04c-4dea-95ba-939c516a8cd9">
+  <producedTypes>
+    <refType typeId="382956b9-dd93-4d3d-8b7b-207271fcea09" valueTypeId="b4928187-8221-4ce4-aaa0-9cbefc272356"/>
+    <listType typeId="0ca6ae6c-4f20-413f-98b0-8faad8d2f59b" valueTypeId="ee3856ff-9ca1-48ea-a3c7-b42881a0ea13"/>
+    <managerType typeId="c417b26b-c5c9-44c4-8571-3491df0b7fbc" valueTypeId="fb44e367-ad33-4a78-a4fd-65d34ebcd1df"/>
+  </producedTypes>
+  <name>ХарактеристикаОбъекта</name>
+  <synonym>
+    <key>ru</key>
+    <value>Характеристика объекта</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="87d76320-46f4-43b1-9ac4-2e2163340ab0">
+    <name>Добавленный</name>
+    <synonym>
+      <key>ru</key>
+      <value>Добавленный</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="10e9c94b-42c6-4a20-8ab6-f5e115f20c7c">
+    <name>ТиповаяКонфигурация</name>
+    <synonym>
+      <key>ru</key>
+      <value>Типовая конфигурация</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>

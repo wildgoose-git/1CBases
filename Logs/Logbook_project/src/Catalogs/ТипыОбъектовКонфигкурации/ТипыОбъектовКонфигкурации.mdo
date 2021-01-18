@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="16fd4ac9-01f1-41d3-b3ea-007ccdd4dc0a">
+  <producedTypes>
+    <objectType typeId="fe60976a-9abc-48a9-89a8-3aa14f9a577d" valueTypeId="9a8c1e79-1cbc-42be-9801-fbbf4cb4173f"/>
+    <refType typeId="67b5fbd9-4d9e-4a71-8661-66f78a3a9555" valueTypeId="fd152e01-9fba-47cf-8e54-5ae54b597a6d"/>
+    <selectionType typeId="d11834a4-bb27-4989-8056-ed167f501f58" valueTypeId="c6deea4f-10f1-4f90-aa1d-6a45777a747a"/>
+    <listType typeId="857f6026-af7a-4710-b511-3410fda2d548" valueTypeId="db60c761-f5c5-4735-9c5c-6b5ec42c9ee1"/>
+    <managerType typeId="33a46750-bf3b-48d3-94c2-6309f25c5cde" valueTypeId="78352214-06a1-42a5-b041-c5d28cc88330"/>
+  </producedTypes>
+  <name>ТипыОбъектовКонфигкурации</name>
+  <synonym>
+    <key>ru</key>
+    <value>Типы объектов конфигкурации</value>
+  </synonym>
+  <inputByString>Catalog.ТипыОбъектовКонфигкурации.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <descriptionLength>150</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

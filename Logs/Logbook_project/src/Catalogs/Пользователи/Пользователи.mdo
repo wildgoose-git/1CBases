@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c65ab88c-3a86-4de8-9672-c76efa3057ce">
+  <producedTypes>
+    <objectType typeId="eefdb1dc-5c36-4148-97fb-2ae0b477b55e" valueTypeId="b89bc973-a064-4ce5-9d59-6e5667899b73"/>
+    <refType typeId="0ed7733a-1d87-4f57-9bb5-0cf955926147" valueTypeId="644625a5-6681-4663-8043-c1389ab8f844"/>
+    <selectionType typeId="954bf13d-0547-4f2e-b1cb-8f07a6b16cdd" valueTypeId="239cde01-80b7-4cad-b589-d3605b71d262"/>
+    <listType typeId="d729c11d-dcb1-45cf-a9f4-02d77da90eb6" valueTypeId="c5fa4099-11cd-4946-8c09-d1662b3867fd"/>
+    <managerType typeId="161dfc18-2441-48f0-a978-ea4c5cf60ac6" valueTypeId="dac09bdc-6bd5-4b7e-8b2b-7752c82accfd"/>
+  </producedTypes>
+  <name>Пользователи</name>
+  <synonym>
+    <key>ru</key>
+    <value>Пользователи</value>
+  </synonym>
+  <inputByString>Catalog.Пользователи.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <descriptionLength>150</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="9a1ec56c-3537-4327-8aef-88a653d9c9a0">
+  <producedTypes>
+    <refType typeId="9e393514-482f-48e4-b8dc-27f45eb0a14b" valueTypeId="4c214f85-f973-46e3-8f29-eab0d0f21903"/>
+    <listType typeId="6a976a9e-3f06-40dd-aaad-d7081d33fe77" valueTypeId="365e6577-8615-4458-b9cd-7c3bccd7db32"/>
+    <managerType typeId="53b1d648-2c00-4dcf-ba72-f9e282ed05f1" valueTypeId="8fcec975-0387-43a4-9846-3430b962b45f"/>
+  </producedTypes>
+  <name>ХарактеристикаРазмещения</name>
+  <synonym>
+    <key>ru</key>
+    <value>Характеристика размещения</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="ed391331-d3fc-4da2-973c-99d052140998">
+    <name>Конфигуратор</name>
+    <synonym>
+      <key>ru</key>
+      <value>Конфигуратор</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="a745693e-c1c1-4ed4-8ebd-2e7565c9058c">
+    <name>ПользовательскийИнтерфейс</name>
+    <synonym>
+      <key>ru</key>
+      <value>Пользовательский интерфейс</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>

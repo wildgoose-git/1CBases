@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b1b889ca-9ebb-40a7-85ca-a218a4617dde">
+  <name>LogBook</name>
+  <synonym>
+    <key>ru</key>
+    <value>Log book</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <picture xsi:type="core:PictureRef">
+    <picture>CommonPicture.РазделНовостиПлоский</picture>
+  </picture>
+  <content>Catalog.Версии</content>
+  <content>Catalog.ИдентификаторыОбъектов</content>
+  <content>Catalog.Конфигурации</content>
+  <content>Catalog.Проекты</content>
+  <content>Enum.СтатусыПроектов</content>
+  <content>Catalog.ЗадачаПроекта</content>
+  <content>Enum.СтатусыЗадач</content>
+  <content>Document.ОтчетОВыполнении</content>
+  <content>Document.ЗаданиеНаРазработку</content>
+  <content>Catalog.ТипыОбъектовКонфигкурации</content>
+  <content>Enum.ХарактеристикаОбъекта</content>
+  <content>Report.ЗадачиИЗадания</content>
+  <content>Report.ДоработкиКонфигурации</content>
+  <content>Enum.ХарактеристикаРазмещения</content>
+</mdclass:Subsystem>
