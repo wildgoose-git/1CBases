@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Вводимые символы скрыты</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Password characters are hidden</value>
-  </synonym>
 </mdclass:CommonPicture>

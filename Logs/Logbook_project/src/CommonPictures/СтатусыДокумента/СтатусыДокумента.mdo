@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Статусы документа</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Document statuses</value>
-  </synonym>
 </mdclass:CommonPicture>

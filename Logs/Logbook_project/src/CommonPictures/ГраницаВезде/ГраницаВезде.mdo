@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Граница везде</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>All borders</value>
-  </synonym>
 </mdclass:CommonPicture>

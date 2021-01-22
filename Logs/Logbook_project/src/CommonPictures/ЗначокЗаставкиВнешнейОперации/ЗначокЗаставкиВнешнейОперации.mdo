@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Значок заставки внешней операции</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>External operation splash icon</value>
-  </synonym>
 </mdclass:CommonPicture>

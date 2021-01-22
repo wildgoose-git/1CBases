@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Напоминание</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Reminder</value>
-  </synonym>
 </mdclass:CommonPicture>

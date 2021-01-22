@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Синхронизация данных интерактивное выполнение</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Data synchronization run interactively</value>
-  </synonym>
 </mdclass:CommonPicture>

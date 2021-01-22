@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Знак стоп</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Stop sign</value>
-  </synonym>
 </mdclass:CommonPicture>

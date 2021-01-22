@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Формат excel</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Microsoft Excel format</value>
-  </synonym>
 </mdclass:CommonPicture>

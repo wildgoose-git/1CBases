@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Вводимые символы видны</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Password characters are visible</value>
-  </synonym>
 </mdclass:CommonPicture>

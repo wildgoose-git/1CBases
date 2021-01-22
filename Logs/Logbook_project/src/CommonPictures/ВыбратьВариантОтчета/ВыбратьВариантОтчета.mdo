@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Выбрать вариант отчета</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Select report option</value>
-  </synonym>
 </mdclass:CommonPicture>

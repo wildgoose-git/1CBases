@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Коллекция дерево анкеты</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Questionnaire tree collection</value>
-  </synonym>
 </mdclass:CommonPicture>

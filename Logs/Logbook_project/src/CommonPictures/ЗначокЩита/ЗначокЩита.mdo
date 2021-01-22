@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Значок щита</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Shield icon</value>
-  </synonym>
 </mdclass:CommonPicture>

@@ -5,10 +5,6 @@
     <key>ru</key>
     <value>Фон результатов поиска</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Search result background</value>
-  </synonym>
   <value xsi:type="core:ColorValue">
     <value xsi:type="core:ColorRef">
       <color>Web.Yellow</color>

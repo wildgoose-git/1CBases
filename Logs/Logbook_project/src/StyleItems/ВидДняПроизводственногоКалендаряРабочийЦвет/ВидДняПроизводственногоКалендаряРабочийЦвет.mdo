@@ -5,10 +5,6 @@
     <key>ru</key>
     <value>Вид дня производственного календаря «Рабочий»</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Business calendar day kind: working day</value>
-  </synonym>
   <value xsi:type="core:ColorValue">
     <value xsi:type="core:ColorRef">
       <color>Web.Black</color>

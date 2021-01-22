@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Информация (32x32)</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Информация (32x32)</value>
-  </synonym>
 </mdclass:CommonPicture>

@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Переместить влево вверх</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Move up left</value>
-  </synonym>
 </mdclass:CommonPicture>

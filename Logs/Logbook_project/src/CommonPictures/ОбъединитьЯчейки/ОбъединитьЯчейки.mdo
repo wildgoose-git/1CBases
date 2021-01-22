@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Объединить ячейки</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Merge cells</value>
-  </synonym>
 </mdclass:CommonPicture>

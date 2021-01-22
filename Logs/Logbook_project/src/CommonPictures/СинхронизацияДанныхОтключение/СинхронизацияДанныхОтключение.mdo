@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Синхронизация данных отключение</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Data synchronization disable</value>
-  </synonym>
 </mdclass:CommonPicture>

@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Подписан ЭП</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Digitally signed</value>
-  </synonym>
 </mdclass:CommonPicture>

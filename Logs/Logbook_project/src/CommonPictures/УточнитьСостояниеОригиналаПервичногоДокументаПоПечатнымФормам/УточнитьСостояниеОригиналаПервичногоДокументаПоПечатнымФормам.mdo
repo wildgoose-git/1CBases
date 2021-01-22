@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Уточнить состояние оригинала первичного документа по печатным формам</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Specify source document original status by print forms</value>
-  </synonym>
 </mdclass:CommonPicture>

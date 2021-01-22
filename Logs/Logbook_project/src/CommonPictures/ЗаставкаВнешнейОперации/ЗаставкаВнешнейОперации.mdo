@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Заставка внешней операции</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>External operation splash</value>
-  </synonym>
 </mdclass:CommonPicture>

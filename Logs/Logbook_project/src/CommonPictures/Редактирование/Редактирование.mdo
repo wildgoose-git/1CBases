@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Редактирование</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Edit</value>
-  </synonym>
 </mdclass:CommonPicture>

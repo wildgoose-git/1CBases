@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Завершить редактирование макета</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Finish layout editing</value>
-  </synonym>
 </mdclass:CommonPicture>

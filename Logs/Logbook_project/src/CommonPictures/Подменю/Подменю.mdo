@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Подменю</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Submenu</value>
-  </synonym>
 </mdclass:CommonPicture>

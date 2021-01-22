@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Восклицательный знак красный</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Red exclamation mark</value>
-  </synonym>
 </mdclass:CommonPicture>

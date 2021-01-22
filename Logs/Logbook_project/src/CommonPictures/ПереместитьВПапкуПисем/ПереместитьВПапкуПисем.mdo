@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Переместить в папку писем</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Move to email folder</value>
-  </synonym>
 </mdclass:CommonPicture>

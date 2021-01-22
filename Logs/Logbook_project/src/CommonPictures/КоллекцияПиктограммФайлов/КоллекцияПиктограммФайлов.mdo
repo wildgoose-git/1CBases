@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Коллекция пиктограмм файлов</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>File icon collection</value>
-  </synonym>
 </mdclass:CommonPicture>

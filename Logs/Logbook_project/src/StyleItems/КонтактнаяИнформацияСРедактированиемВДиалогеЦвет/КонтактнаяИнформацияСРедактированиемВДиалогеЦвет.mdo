@@ -5,10 +5,6 @@
     <key>ru</key>
     <value>Контактная информация с редактированием в диалоге</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Dialog-editable contact information</value>
-  </synonym>
   <value xsi:type="core:ColorValue">
     <value xsi:type="core:ColorRef">
       <color>Web.Cream</color>

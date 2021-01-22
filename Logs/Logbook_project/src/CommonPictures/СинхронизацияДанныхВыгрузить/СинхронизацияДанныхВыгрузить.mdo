@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Синхронизация данных выгрузить</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Data synchronization export</value>
-  </synonym>
 </mdclass:CommonPicture>

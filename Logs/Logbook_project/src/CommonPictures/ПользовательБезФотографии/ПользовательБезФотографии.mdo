@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Пользователь без фотографии</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>User without photo</value>
-  </synonym>
 </mdclass:CommonPicture>

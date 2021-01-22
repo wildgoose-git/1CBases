@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Состояния расширений: будет подключено</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Extension status: will be attached</value>
-  </synonym>
 </mdclass:CommonPicture>

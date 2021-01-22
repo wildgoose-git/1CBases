@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Добавить простой вопрос</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Add simple question</value>
-  </synonym>
 </mdclass:CommonPicture>

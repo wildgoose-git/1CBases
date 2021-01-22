@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Подключение обсуждений</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Enable conversations</value>
-  </synonym>
 </mdclass:CommonPicture>

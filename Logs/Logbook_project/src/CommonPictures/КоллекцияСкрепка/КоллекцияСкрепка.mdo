@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Коллекция скрепка</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Clip collection</value>
-  </synonym>
 </mdclass:CommonPicture>

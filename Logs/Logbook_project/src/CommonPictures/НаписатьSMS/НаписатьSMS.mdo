@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Написать SMS</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Send SMS</value>
-  </synonym>
 </mdclass:CommonPicture>

@@ -5,10 +5,6 @@
     <key>ru</key>
     <value>Образец настройки колонтитулов шрифт</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Header and footer preview font</value>
-  </synonym>
   <type>Font</type>
   <value xsi:type="core:FontValue">
     <value xsi:type="core:FontDef">

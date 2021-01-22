@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Нет границы</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>No border</value>
-  </synonym>
 </mdclass:CommonPicture>

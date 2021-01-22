@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Редактировать макет</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Edit layout</value>
-  </synonym>
 </mdclass:CommonPicture>

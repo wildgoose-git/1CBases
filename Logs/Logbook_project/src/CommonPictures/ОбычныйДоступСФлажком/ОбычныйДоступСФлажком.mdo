@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Обычный доступ с флажком</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Normal access with check box</value>
-  </synonym>
 </mdclass:CommonPicture>

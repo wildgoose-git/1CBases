@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Архив анкета</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Archived questionnaire</value>
-  </synonym>
 </mdclass:CommonPicture>

@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Состояния расширений конфигурации</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Configuration extension statuses</value>
-  </synonym>
 </mdclass:CommonPicture>

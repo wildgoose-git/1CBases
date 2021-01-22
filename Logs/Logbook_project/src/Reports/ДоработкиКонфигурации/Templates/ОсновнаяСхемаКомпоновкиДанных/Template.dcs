@@ -102,10 +102,6 @@
 			</useRestriction>
 		</field>
 		<field xsi:type="DataSetFieldField">
-			<dataPath>Принадлежность</dataPath>
-			<field>Принадлежность</field>
-		</field>
-		<field xsi:type="DataSetFieldField">
 			<dataPath>Конфигурация</dataPath>
 			<field>Конфигурация</field>
 		</field>
@@ -192,8 +188,7 @@
 	ТаблицаОтчетов.ДатаНачала КАК ДатаНачалаОбщая,
 	ТаблицаОтчетов.ДатаОкончания КАК ДатаОкончанияОбщая,
 	ИдентификаторыОбъектов.Конфигурация КАК Конфигурация,
-	ИдентификаторыОбъектов.ТипОбъектаКонфигурации КАК ТипОбъектаКонфигурации,
-	ИдентификаторыОбъектов.Принадлежность КАК Принадлежность
+	ИдентификаторыОбъектов.ТипОбъектаКонфигурации КАК ТипОбъектаКонфигурации
 ИЗ
 	СоставРабот КАК СоставРабот
 		ЛЕВОЕ СОЕДИНЕНИЕ ОбъектыКонфигурации КАК ОбъектыКонфигурации
@@ -338,6 +333,12 @@
 					<dcsset:userSettingID>b0cb8b19-d15c-43ac-9d94-be0c71d2b61e</dcsset:userSettingID>
 				</dcscor:item>
 			</dcsset:dataParameters>
+			<dcsset:outputParameters>
+				<dcscor:item xsi:type="dcsset:SettingsParameterValue">
+					<dcscor:parameter>МакетОформления</dcscor:parameter>
+					<dcscor:value xsi:type="xs:string">Зеленый</dcscor:value>
+				</dcscor:item>
+			</dcsset:outputParameters>
 			<dcsset:item xsi:type="dcsset:StructureItemGroup">
 				<dcsset:groupItems>
 					<dcsset:item xsi:type="dcsset:GroupItemField">
@@ -479,6 +480,12 @@
 					<dcsset:userSettingID>b0cb8b19-d15c-43ac-9d94-be0c71d2b61e</dcsset:userSettingID>
 				</dcscor:item>
 			</dcsset:dataParameters>
+			<dcsset:outputParameters>
+				<dcscor:item xsi:type="dcsset:SettingsParameterValue">
+					<dcscor:parameter>МакетОформления</dcscor:parameter>
+					<dcscor:value xsi:type="xs:string">Зеленый</dcscor:value>
+				</dcscor:item>
+			</dcsset:outputParameters>
 			<dcsset:item xsi:type="dcsset:StructureItemGroup">
 				<dcsset:groupItems>
 					<dcsset:item xsi:type="dcsset:GroupItemField">

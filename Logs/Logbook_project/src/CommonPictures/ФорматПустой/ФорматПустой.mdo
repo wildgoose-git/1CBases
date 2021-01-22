@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Формат пустой</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Blank format</value>
-  </synonym>
 </mdclass:CommonPicture>

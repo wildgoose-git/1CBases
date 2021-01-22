@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Использовать поставляемый макет</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Use build-in layout</value>
-  </synonym>
 </mdclass:CommonPicture>

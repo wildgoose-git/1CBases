@@ -5,10 +5,6 @@
     <key>ru</key>
     <value>Группа вариантов отчетов цвет</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Report option group color</value>
-  </synonym>
   <value xsi:type="core:ColorValue">
     <value xsi:type="core:ColorDef">
       <green>150</green>

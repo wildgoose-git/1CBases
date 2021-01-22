@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Папка облачного сервиса</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Cloud service folder</value>
-  </synonym>
 </mdclass:CommonPicture>

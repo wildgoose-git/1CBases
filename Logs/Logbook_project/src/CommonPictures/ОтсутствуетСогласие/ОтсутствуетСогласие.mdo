@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Отсутствует согласие</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Consent missing</value>
-  </synonym>
 </mdclass:CommonPicture>

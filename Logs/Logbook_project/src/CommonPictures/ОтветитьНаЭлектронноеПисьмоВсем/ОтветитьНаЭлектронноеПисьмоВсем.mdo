@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Ответить на электронное письмо всем</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Reply all to email</value>
-  </synonym>
 </mdclass:CommonPicture>

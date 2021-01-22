@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Пометка</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Mark</value>
-  </synonym>
 </mdclass:CommonPicture>

@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Использовать пользовательский макет</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Use custom layout</value>
-  </synonym>
 </mdclass:CommonPicture>

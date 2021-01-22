@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Граница справа</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Right border</value>
-  </synonym>
 </mdclass:CommonPicture>

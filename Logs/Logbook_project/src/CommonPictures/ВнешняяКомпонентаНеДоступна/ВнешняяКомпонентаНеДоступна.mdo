@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Внешняя компонента не доступна</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Add-in is unavailable</value>
-  </synonym>
 </mdclass:CommonPicture>

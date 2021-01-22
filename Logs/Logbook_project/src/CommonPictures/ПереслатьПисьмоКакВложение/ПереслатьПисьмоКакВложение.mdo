@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Переслать письмо как вложение</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Forward email as an attachment</value>
-  </synonym>
 </mdclass:CommonPicture>

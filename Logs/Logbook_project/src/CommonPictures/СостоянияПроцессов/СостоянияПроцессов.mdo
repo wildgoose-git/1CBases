@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Состояния процессов</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Process states</value>
-  </synonym>
 </mdclass:CommonPicture>

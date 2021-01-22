@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Отборы</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Filters</value>
-  </synonym>
 </mdclass:CommonPicture>

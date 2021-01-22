@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Яндекс карты</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Yandex.Maps</value>
-  </synonym>
 </mdclass:CommonPicture>

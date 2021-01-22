@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Ошибка</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Error</value>
-  </synonym>
 </mdclass:CommonPicture>

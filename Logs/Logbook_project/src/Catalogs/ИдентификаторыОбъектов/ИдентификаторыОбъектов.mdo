@@ -97,7 +97,7 @@
     </toolTip>
     <fillFromFillingValue>true</fillFromFillingValue>
     <fillValue xsi:type="core:ReferenceValue">
-      <value>f6b1de62-9422-4ed0-8d1c-7a9ec4ab1ffe.00000000-0000-0000-0000-000000000000</value>
+      <value>Catalog.ИдентификаторыОбъектовМетаданных.EmptyRef</value>
     </fillValue>
     <fullTextSearch>Use</fullTextSearch>
     <minValue xsi:type="core:UndefinedValue"/>

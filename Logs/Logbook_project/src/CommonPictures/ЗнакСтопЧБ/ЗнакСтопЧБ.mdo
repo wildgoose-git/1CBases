@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Знак стоп ЧБ</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>BW stop sign</value>
-  </synonym>
 </mdclass:CommonPicture>

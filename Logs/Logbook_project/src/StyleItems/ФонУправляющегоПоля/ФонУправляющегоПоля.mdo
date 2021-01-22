@@ -5,10 +5,6 @@
     <key>ru</key>
     <value>Фон управляющего поля</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Managing field background</value>
-  </synonym>
   <value xsi:type="core:ColorValue">
     <value xsi:type="core:ColorDef">
       <red>255</red>

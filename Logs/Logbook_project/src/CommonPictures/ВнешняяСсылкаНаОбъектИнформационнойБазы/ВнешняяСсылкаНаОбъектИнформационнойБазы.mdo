@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Внешняя ссылка на объект информационной базы</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>External reference to infobase object</value>
-  </synonym>
 </mdclass:CommonPicture>

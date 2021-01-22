@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Цвет фона</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Background color</value>
-  </synonym>
 </mdclass:CommonPicture>

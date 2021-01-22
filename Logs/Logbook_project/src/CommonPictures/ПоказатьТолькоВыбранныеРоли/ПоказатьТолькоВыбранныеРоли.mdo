@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Показать только выбранные роли</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Show selected roles only</value>
-  </synonym>
 </mdclass:CommonPicture>

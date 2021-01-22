@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Процесс отложен</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Process is deferred</value>
-  </synonym>
 </mdclass:CommonPicture>

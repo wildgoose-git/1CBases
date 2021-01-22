@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Разрешить редактирование реквизитов объекта</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Allow object attribute edit</value>
-  </synonym>
 </mdclass:CommonPicture>

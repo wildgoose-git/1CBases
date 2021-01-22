@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Курсивное начертание</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Italic</value>
-  </synonym>
 </mdclass:CommonPicture>

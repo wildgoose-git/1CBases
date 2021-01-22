@@ -5,9 +5,5 @@
     <key>ru</key>
     <value>Коллекция пиктограмм элементов</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Item icons collection</value>
-  </synonym>
   <comment>Устарела: следует использовать ПиктограммыЭлементов</comment>
 </mdclass:CommonPicture>

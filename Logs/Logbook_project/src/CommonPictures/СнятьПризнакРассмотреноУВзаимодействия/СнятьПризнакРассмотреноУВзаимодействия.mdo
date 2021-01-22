@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Снять признак рассмотрено у взаимодействия</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Clear review mark from interaction</value>
-  </synonym>
 </mdclass:CommonPicture>

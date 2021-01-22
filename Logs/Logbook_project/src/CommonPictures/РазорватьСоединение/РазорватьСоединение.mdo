@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Разорвать соединение</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Disconnect</value>
-  </synonym>
 </mdclass:CommonPicture>

@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Коллекция отсутствует согласие</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Collection consent is missing</value>
-  </synonym>
 </mdclass:CommonPicture>

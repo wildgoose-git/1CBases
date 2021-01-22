@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Синхронизация данных непринятые по дате</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Data synchronization declined by date</value>
-  </synonym>
 </mdclass:CommonPicture>

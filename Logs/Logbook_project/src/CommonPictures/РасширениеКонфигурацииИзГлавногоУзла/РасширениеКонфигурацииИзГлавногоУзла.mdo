@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Расширение конфигурации из главного узла</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Configuration extension from master node</value>
-  </synonym>
 </mdclass:CommonPicture>

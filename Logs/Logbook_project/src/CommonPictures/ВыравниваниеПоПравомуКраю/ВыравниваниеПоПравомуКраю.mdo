@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Выравнивание по правому краю</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Align right</value>
-  </synonym>
 </mdclass:CommonPicture>

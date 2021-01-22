@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Успешно (32x32)</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Success (32x32)</value>
-  </synonym>
 </mdclass:CommonPicture>

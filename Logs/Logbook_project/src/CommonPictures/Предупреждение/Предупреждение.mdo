@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Предупреждение</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Warning</value>
-  </synonym>
 </mdclass:CommonPicture>

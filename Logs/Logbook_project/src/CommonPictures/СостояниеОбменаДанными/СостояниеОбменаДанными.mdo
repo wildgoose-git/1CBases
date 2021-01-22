@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Состояние обмена данными</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Data exchange status</value>
-  </synonym>
 </mdclass:CommonPicture>

@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Установить предмет взаимодействия</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Define interaction subject</value>
-  </synonym>
 </mdclass:CommonPicture>

@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Справочник ПВХ коннектор верх низ</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>CCT catalog connector top bottom</value>
-  </synonym>
 </mdclass:CommonPicture>

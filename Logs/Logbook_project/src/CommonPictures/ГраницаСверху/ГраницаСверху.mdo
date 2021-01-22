@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Граница сверху</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Top border</value>
-  </synonym>
 </mdclass:CommonPicture>

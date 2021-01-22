@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Граница внутри</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Inside border</value>
-  </synonym>
 </mdclass:CommonPicture>

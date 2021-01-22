@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Пользовательский макет удалить</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Delete custom layout</value>
-  </synonym>
 </mdclass:CommonPicture>

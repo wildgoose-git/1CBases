@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Коллекция доступные анкеты</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Available questionnaires collection</value>
-  </synonym>
 </mdclass:CommonPicture>

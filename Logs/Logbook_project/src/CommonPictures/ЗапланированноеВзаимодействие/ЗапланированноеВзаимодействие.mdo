@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Запланированное взаимодействие</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Scheduled interaction</value>
-  </synonym>
 </mdclass:CommonPicture>

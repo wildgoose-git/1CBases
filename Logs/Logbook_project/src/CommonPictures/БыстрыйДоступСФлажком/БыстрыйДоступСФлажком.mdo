@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Быстрый доступ с флажком</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Quick access with check box</value>
-  </synonym>
 </mdclass:CommonPicture>

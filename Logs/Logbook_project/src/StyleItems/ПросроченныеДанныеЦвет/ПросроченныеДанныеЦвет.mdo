@@ -5,10 +5,6 @@
     <key>ru</key>
     <value>Просроченные данные</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Overdue data</value>
-  </synonym>
   <value xsi:type="core:ColorValue">
     <value xsi:type="core:ColorDef">
       <red>178</red>

@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Переслать электронное письмо</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Forward email</value>
-  </synonym>
 </mdclass:CommonPicture>

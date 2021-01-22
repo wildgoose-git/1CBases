@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Настроить состояния оригинала первичного документа</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Configure source document original statuses</value>
-  </synonym>
 </mdclass:CommonPicture>

@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Зашифрован</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Encrypted</value>
-  </synonym>
 </mdclass:CommonPicture>

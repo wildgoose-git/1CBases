@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Документ записан коннектор лево низ</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Document written connector left bottom</value>
-  </synonym>
 </mdclass:CommonPicture>

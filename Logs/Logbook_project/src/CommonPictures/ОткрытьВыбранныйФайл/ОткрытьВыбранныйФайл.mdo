@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Открыть выбранный файл</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Open selected file</value>
-  </synonym>
 </mdclass:CommonPicture>

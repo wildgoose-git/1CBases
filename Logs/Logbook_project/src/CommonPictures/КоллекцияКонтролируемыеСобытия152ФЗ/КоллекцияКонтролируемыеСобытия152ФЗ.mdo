@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Коллекция контролируемые события 152-ФЗ</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Monitored events 152-FZ collection</value>
-  </synonym>
 </mdclass:CommonPicture>

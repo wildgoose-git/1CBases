@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Вертикальное положение низ</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Vertical position bottom</value>
-  </synonym>
 </mdclass:CommonPicture>

@@ -5,9 +5,5 @@
     <key>ru</key>
     <value>Коллекция видов событий журнала регистрации</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Event log kinds collection</value>
-  </synonym>
   <comment>Коллекция картинок видов событий</comment>
 </mdclass:CommonPicture>

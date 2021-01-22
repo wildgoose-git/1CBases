@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Виды навигации по взаимодействиям от контактов</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Kinds of navigation by interactions from contacts</value>
-  </synonym>
 </mdclass:CommonPicture>

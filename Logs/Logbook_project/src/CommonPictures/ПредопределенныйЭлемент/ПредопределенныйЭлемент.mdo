@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Предопределенный элемент</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Predefined item</value>
-  </synonym>
 </mdclass:CommonPicture>

@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Количество рассмотрено</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Quantity reviewed</value>
-  </synonym>
 </mdclass:CommonPicture>

@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Пиктограммы элементов справочника состояния оригиналов первичных документов</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Icons of source documents original status catalog items</value>
-  </synonym>
 </mdclass:CommonPicture>

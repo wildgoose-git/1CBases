@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Коллекция напоминания</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Reminders collection</value>
-  </synonym>
 </mdclass:CommonPicture>

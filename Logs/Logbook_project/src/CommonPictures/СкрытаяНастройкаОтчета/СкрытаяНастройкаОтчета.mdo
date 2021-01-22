@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Скрытая настройка отчета</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Hidden report setting</value>
-  </synonym>
 </mdclass:CommonPicture>

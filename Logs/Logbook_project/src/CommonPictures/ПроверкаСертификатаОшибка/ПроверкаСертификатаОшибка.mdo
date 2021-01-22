@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Проверка сертификата ошибка</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Certificate check error</value>
-  </synonym>
 </mdclass:CommonPicture>

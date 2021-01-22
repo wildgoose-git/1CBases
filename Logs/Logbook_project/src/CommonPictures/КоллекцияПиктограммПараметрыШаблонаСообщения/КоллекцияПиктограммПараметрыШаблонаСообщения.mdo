@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Коллекция пиктограмм параметры шаблона сообщения</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Icon collection message template parameters</value>
-  </synonym>
 </mdclass:CommonPicture>

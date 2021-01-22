@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Занять файл</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Lock file</value>
-  </synonym>
 </mdclass:CommonPicture>

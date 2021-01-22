@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Папки электронных писем</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Email folders</value>
-  </synonym>
 </mdclass:CommonPicture>

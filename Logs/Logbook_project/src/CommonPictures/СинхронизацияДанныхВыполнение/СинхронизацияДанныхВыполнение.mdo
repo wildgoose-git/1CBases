@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Синхронизация данных выполнение</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Data synchronization run</value>
-  </synonym>
 </mdclass:CommonPicture>

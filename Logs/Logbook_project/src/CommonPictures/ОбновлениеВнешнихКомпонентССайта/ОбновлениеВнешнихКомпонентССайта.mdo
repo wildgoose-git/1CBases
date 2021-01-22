@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Обновление внешних компонент с сайта</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Update add-ins from the website</value>
-  </synonym>
 </mdclass:CommonPicture>

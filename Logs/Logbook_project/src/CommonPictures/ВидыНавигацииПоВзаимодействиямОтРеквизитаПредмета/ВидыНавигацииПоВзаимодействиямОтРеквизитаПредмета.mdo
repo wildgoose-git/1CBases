@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Виды навигации по взаимодействиям от реквизита предмета</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Kinds of navigation by interactions from subject attribute</value>
-  </synonym>
 </mdclass:CommonPicture>

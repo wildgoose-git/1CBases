@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Компьютер сервер</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Computer server</value>
-  </synonym>
 </mdclass:CommonPicture>

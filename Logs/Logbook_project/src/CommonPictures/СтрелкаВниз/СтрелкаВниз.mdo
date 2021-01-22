@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Стрелка вниз</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Down arrow</value>
-  </synonym>
 </mdclass:CommonPicture>

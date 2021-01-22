@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Максимум</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Max</value>
-  </synonym>
 </mdclass:CommonPicture>

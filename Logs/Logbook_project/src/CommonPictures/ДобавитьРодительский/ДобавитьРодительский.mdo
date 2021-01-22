@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Добавить родительский</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Add parent</value>
-  </synonym>
 </mdclass:CommonPicture>

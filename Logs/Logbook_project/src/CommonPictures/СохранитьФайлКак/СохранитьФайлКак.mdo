@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Сохранить файл как</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Save file as</value>
-  </synonym>
 </mdclass:CommonPicture>

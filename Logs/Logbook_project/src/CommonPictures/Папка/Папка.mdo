@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Папка</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Folder</value>
-  </synonym>
 </mdclass:CommonPicture>

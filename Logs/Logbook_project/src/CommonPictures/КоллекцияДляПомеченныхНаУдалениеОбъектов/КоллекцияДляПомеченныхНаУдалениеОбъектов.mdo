@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Картинки для помеченных на удаление объектов</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Pictures for objects marked for deletion</value>
-  </synonym>
 </mdclass:CommonPicture>

@@ -5,10 +5,6 @@
     <key>ru</key>
     <value>Дата графика измененная</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Changed schedule date</value>
-  </synonym>
   <value xsi:type="core:ColorValue">
     <value xsi:type="core:ColorRef">
       <color>Web.Gainsboro</color>

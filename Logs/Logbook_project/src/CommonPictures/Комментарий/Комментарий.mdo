@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Комментарий</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Comment</value>
-  </synonym>
 </mdclass:CommonPicture>

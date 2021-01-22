@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Телефонный звонок</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Phone call</value>
-  </synonym>
 </mdclass:CommonPicture>

@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Отменить редактирование макета</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Cancel layout edit</value>
-  </synonym>
 </mdclass:CommonPicture>

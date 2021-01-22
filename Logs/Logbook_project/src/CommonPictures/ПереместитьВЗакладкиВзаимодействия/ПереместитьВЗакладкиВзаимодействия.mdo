@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Переместить в закладки взаимодействия</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Add to interaction bookmarks</value>
-  </synonym>
 </mdclass:CommonPicture>

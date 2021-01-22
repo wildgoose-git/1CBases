@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Установить ответственного за взаимодействие</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Assign interaction with person responsible</value>
-  </synonym>
 </mdclass:CommonPicture>

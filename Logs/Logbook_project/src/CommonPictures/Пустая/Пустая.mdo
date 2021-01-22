@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Пустая</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Blank</value>
-  </synonym>
 </mdclass:CommonPicture>

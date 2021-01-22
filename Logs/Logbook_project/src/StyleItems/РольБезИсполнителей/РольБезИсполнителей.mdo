@@ -5,10 +5,6 @@
     <key>ru</key>
     <value>Роль без исполнителей</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Role without assignees</value>
-  </synonym>
   <comment>Роль исполнителей задач, на которую не назначено ни одного исполнителя</comment>
   <value xsi:type="core:ColorValue">
     <value xsi:type="core:ColorRef">

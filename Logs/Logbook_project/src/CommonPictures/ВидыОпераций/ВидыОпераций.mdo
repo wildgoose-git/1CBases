@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Виды операций</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Operation kinds</value>
-  </synonym>
 </mdclass:CommonPicture>

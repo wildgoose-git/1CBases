@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Приложить файл</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Attach file</value>
-  </synonym>
 </mdclass:CommonPicture>

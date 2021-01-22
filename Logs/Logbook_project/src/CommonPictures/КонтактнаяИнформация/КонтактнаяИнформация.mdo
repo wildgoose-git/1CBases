@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Контактная информация</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Contact information</value>
-  </synonym>
 </mdclass:CommonPicture>

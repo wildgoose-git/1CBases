@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Вид сравнения</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Comparison type</value>
-  </synonym>
 </mdclass:CommonPicture>

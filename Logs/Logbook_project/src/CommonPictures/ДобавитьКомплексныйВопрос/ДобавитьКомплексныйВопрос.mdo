@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Добавить комплексный вопрос</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Add interview question</value>
-  </synonym>
 </mdclass:CommonPicture>

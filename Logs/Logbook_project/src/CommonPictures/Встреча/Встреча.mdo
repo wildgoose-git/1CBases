@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Встреча</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Meeting</value>
-  </synonym>
 </mdclass:CommonPicture>

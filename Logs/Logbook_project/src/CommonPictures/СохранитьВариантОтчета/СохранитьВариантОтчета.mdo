@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Сохранить вариант отчета</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Save report option</value>
-  </synonym>
 </mdclass:CommonPicture>

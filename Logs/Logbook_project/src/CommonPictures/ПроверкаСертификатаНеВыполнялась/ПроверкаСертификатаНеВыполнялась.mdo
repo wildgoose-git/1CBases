@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Проверка сертификата не выполнялась</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>The certificate was not checked.</value>
-  </synonym>
 </mdclass:CommonPicture>

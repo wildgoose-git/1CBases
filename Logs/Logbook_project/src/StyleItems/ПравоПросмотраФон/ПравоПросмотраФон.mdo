@@ -5,10 +5,6 @@
     <key>ru</key>
     <value>Право просмотра фон</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>View right background</value>
-  </synonym>
   <value xsi:type="core:ColorValue">
     <value xsi:type="core:ColorRef">
       <color>Web.HoneyDew</color>

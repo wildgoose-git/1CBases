@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Синхронизация данных коллизия</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Data synchronization conflict</value>
-  </synonym>
 </mdclass:CommonPicture>

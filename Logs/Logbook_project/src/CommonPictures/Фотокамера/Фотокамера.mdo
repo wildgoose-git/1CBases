@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Фотокамера</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Camera</value>
-  </synonym>
 </mdclass:CommonPicture>

@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Статусы сопоставления объектов</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Object mapping statuses</value>
-  </synonym>
 </mdclass:CommonPicture>

@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Подменю &quot;Сервис&quot;</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Service submenu</value>
-  </synonym>
 </mdclass:CommonPicture>

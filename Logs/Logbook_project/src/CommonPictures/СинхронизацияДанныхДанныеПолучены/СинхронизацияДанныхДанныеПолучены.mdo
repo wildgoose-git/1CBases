@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Синхронизация данных данные получены</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Data synchronization data received</value>
-  </synonym>
 </mdclass:CommonPicture>

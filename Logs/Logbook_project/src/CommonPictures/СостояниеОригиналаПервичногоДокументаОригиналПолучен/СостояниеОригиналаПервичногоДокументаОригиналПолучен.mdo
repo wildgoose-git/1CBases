@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Состояние оригинала первичного документа &quot;Оригинал получен&quot;</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Source document original status &quot;Original received&quot;</value>
-  </synonym>
 </mdclass:CommonPicture>

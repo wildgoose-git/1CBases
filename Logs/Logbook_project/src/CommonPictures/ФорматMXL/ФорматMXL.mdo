@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Формат MXL</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>MXL format</value>
-  </synonym>
 </mdclass:CommonPicture>

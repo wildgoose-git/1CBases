@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Подчеркивание</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Underline</value>
-  </synonym>
 </mdclass:CommonPicture>

@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Ожидаемая длительная операция 48</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Expected time-consuming operation 48</value>
-  </synonym>
 </mdclass:CommonPicture>

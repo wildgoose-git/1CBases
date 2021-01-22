@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Завершить работу</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Exit</value>
-  </synonym>
 </mdclass:CommonPicture>

@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Формат word</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Microsoft Word format</value>
-  </synonym>
 </mdclass:CommonPicture>

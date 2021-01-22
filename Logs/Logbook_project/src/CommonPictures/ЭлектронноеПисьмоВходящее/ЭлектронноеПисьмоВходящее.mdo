@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Электронное письмо входящее</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Incoming email</value>
-  </synonym>
 </mdclass:CommonPicture>

@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Установить признак рассмотрено для взаимодействия</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Mark the interaction as reviewed</value>
-  </synonym>
 </mdclass:CommonPicture>

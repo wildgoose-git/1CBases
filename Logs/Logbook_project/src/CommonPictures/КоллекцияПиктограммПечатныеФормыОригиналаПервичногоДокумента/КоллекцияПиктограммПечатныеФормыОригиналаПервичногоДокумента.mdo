@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Коллекция пиктограмм печатные формы оригинала первичного документа</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Icon collection print forms of source document original</value>
-  </synonym>
 </mdclass:CommonPicture>

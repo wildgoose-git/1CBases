@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Выравнивание по ширине</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Justify</value>
-  </synonym>
 </mdclass:CommonPicture>

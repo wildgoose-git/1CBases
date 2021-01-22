@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Подписан зашифрован заголовок</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Signed encrypted title</value>
-  </synonym>
 </mdclass:CommonPicture>

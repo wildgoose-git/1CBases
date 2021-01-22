@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Сумма</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Sum</value>
-  </synonym>
 </mdclass:CommonPicture>

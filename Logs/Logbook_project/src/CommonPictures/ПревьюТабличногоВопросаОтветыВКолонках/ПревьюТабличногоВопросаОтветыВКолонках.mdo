@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Превью табличного вопроса ответы в колонках</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Table question preview answers in columns</value>
-  </synonym>
 </mdclass:CommonPicture>

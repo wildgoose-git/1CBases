@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Закончить редактирование файла</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Commit file</value>
-  </synonym>
 </mdclass:CommonPicture>

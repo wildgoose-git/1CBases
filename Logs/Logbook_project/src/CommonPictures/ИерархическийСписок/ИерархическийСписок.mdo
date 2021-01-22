@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Иерархический список</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Hierarchical list</value>
-  </synonym>
 </mdclass:CommonPicture>

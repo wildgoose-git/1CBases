@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Длительная операция</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Long action</value>
-  </synonym>
 </mdclass:CommonPicture>

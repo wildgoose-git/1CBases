@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Полужирное начертание</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Bold</value>
-  </synonym>
 </mdclass:CommonPicture>

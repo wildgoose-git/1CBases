@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Рассчитать</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Calculate</value>
-  </synonym>
 </mdclass:CommonPicture>

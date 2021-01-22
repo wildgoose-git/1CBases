@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Применить правила обработки писем</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Apply email processing rules</value>
-  </synonym>
 </mdclass:CommonPicture>

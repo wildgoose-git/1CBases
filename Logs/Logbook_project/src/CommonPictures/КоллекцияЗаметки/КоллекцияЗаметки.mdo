@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Коллекция заметки</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Collection notes</value>
-  </synonym>
 </mdclass:CommonPicture>

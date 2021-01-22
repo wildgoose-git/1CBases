@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Телеграм16х16</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Telegram16х16</value>
-  </synonym>
 </mdclass:CommonPicture>

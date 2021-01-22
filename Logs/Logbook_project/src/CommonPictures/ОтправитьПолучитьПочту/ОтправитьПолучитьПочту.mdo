@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Отправить и получить почту</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Send and receive mail</value>
-  </synonym>
 </mdclass:CommonPicture>

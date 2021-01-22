@@ -5,10 +5,6 @@
     <key>ru</key>
     <value>Поясняющий текст</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Details</value>
-  </synonym>
   <comment>Оформление справочного текста в форме</comment>
   <value xsi:type="core:ColorValue">
     <value xsi:type="core:ColorDef">

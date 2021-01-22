@@ -5,8 +5,4 @@
     <key>ru</key>
     <value>Коллекция варианты важности</value>
   </synonym>
-  <synonym>
-    <key>en</key>
-    <value>Severity options collection</value>
-  </synonym>
 </mdclass:CommonPicture>
